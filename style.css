@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: smooth;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 22px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+    border-radius: 15px;
+}
+ .container{  
+    background-color: yellow;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
